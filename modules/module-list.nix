@@ -93,6 +93,7 @@
   ./services/postgresql
   ./services/privoxy
   ./services/redis
+  ./services/sing-box.nix
   ./services/sketchybar
   ./services/skhd
   ./services/spacebar
